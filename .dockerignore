@@ -1,0 +1,3 @@
+.git
+*.db
+*_test.go
